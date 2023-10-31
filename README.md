@@ -1,3 +1,5 @@
-### Hi there 👋
+### Hi stranger
 
-- Year 2 Software Engineering 2023/24
+- Student at UM (Year 2 Software Engineering)
+- Noob at coding
+- idk what im doing
