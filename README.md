@@ -20,7 +20,7 @@
   <a href="https://www.goodreads.com/book/show/41880609-on-earth-we-re-briefly-gorgeous"><img align="center" src="./onearth.jpg" alt="onearth" height="70" width="50" /></a>
   <a href="https://www.goodreads.com/book/show/10357575-1q84"><img align="center" src="./1q84.jpg" alt="1q84" height="70" width="50" /></a>
   <a href="https://www.goodreads.com/book/show/24861.Demian_Die_Geschichte_von_Emil_Sinclairs_Jugend"><img align="center" src="./demian.jpg" alt="demian" height="70" width="40" /></a>
-  <a href="https://www.goodreads.com/book/show/6514.The_Bell_Jar"><img align="center" src="./belljar.jpg" alt="belljar" height="70" width="40" /></a>
-  <a href="https://www.goodreads.com/book/show/22628.The_Perks_of_Being_a_Wallflower"><img align="center" src="./perks.jpg" alt="perks" height="70" width="40" /></a>
+  <a href="https://www.goodreads.com/book/show/6514.The_Bell_Jar"><img align="center" src="./belljar.jpg" alt="belljar" height="70" width="50" /></a>
+  <a href="https://www.goodreads.com/book/show/22628.The_Perks_of_Being_a_Wallflower"><img align="center" src="./perks.jpg" alt="perks" height="70" width="50" /></a>
 </p>
 
