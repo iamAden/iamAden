@@ -2,8 +2,8 @@
 <br/>
 <br/>  ／l、    <a href="https://www.linkedin.com/in/adelinekg">Connect with me on LinkedIn</a>         
 <tt>（ﾟ､ ｡７ </tt>
-  l、ﾞ~ヽ
-  じしf_, )ノ
+<tt>  l、ﾞ~ヽ </tt>
+<tt>  じしf_, )ノ </tt>
 
 
 <h2 align="center">NErD STACKs IM  vEry NORmAL ABOUT</h2>
