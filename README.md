@@ -11,6 +11,8 @@
 <a href="https://open.spotify.com/album/2wwCc6fcyhp1tfY3J6Javr"><img align="center" src="./banisters.jpg" alt="banisters" height="60" width="60" /></a>
 <a href="https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"><img align="center" src="./norman.jpeg" alt="norman" height="60" width="60" /></a>
 <a href="https://open.spotify.com/album/3PRoXYsngSwjEQWR5PsHWR"><img align="center" src="./revolver.jpeg" alt="revolver" height="60" width="60" /></a>
+<a href="https://open.spotify.com/album/4KPLIqzqXYLHsJywLa9uaL"><img align="center" src="./angin.jpg" alt="angin" height="60" width="60" /></a>
+<a href="https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE"><img align="center" src="./okcomputer.jpg" alt="okcomputer" height="60" width="60" /></a>
 </p>
 <h3 align="left">🎮Games!!</h3>
 <p align="left">
