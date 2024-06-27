@@ -24,4 +24,13 @@
   <a href="https://www.goodreads.com/book/show/6514.The_Bell_Jar"><img align="center" src="./belljar.jpg" alt="belljar" height="70" width="50" /></a>
   <a href="https://www.goodreads.com/book/show/22628.The_Perks_of_Being_a_Wallflower"><img align="center" src="./perks.jpg" alt="perks" height="70" width="50" /></a>
 </p>
-
+<h3 align="left">TV Shows/Movies!!</h3>
+<p align="left">
+  <a href="https://www.imdb.com/title/tt11126994/"><img align="center" src="./arcane.jpg" alt="arcane" height="70" width="50" /></a>
+  <a href="https://www.imdb.com/title/tt14452776/"><img align="center" src="./bear.jpg" alt="thebear" height="70" width="50" /></a>
+  <a href="https://www.imdb.com/title/tt0110912/"><img align="center" src="./pulp.jpg" alt="pulp" height="70" width="40" /></a>
+  <a href="https://www.imdb.com/title/tt0073629/"><img align="center" src="./rocky.jpeg" alt="rocky" height="70" width="50" /></a>
+  <a href="https://www.imdb.com/title/tt6710474/"><img align="center" src="./eeaao.jpg" alt="eeaao" height="70" width="50" /></a>
+  <a href="https://www.imdb.com/title/tt10954984/"><img align="center" src="./nope.jpg" alt="nope" height="70" width="50" /></a>
+  
+</p>
