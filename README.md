@@ -30,14 +30,14 @@
 </p>
 <h3 align="left">📺TV Shows/Movies!!</h3>
 <p align="left">
-  <a href="https://www.imdb.com/title/tt11126994/"><img align="center" src="./arcane.jpg" alt="arcane" height="75" width="50" /></a>
-  <a href="https://www.imdb.com/title/tt14452776/"><img align="center" src="./bear.jpg" alt="thebear" height="75" width="50" /></a>
-  <a href="https://www.imdb.com/title/tt0110912/"><img align="center" src="./pulp.jpg" alt="pulp" height="75" width="40" /></a>
   <a href="https://www.imdb.com/title/tt0073629/"><img align="center" src="./rocky.jpeg" alt="rocky" height="75" width="50" /></a>
   <a href="https://www.imdb.com/title/tt6710474/"><img align="center" src="./eeaao.jpg" alt="eeaao" height="75" width="50" /></a>
+  <a href="https://www.imdb.com/title/tt0110912/"><img align="center" src="./pulp.jpg" alt="pulp" height="75" width="40" /></a>
+  <a href="https://www.imdb.com/title/tt14452776/"><img align="center" src="./bear.jpg" alt="thebear" height="75" width="50" /></a>
   <a href="https://www.imdb.com/title/tt10954984/"><img align="center" src="./nope.jpg" alt="nope" height="75" width="50" /></a>
-  <a href="https://www.imdb.com/title/tt3581920/"><img align="center" src="./tlou.jpg" alt="tlou" height="75" width="50" /></a>
-  <a href="https://www.imdb.com/title/tt3581920/"><img align="center" src="./scarface.jpg" alt="scarface" height="75" width="50" /></a>
+  <a href="https://www.imdb.com/title/tt11126994/"><img align="center" src="./arcane.jpg" alt="arcane" height="75" width="50" /></a>
   <a href="https://www.imdb.com/title/tt3581920/"><img align="center" src="./craft.jpg" alt="craft" height="75" width="50" /></a>
+  <a href="https://www.imdb.com/title/tt3581920/"><img align="center" src="./tlou.jpg" alt="tlou" height="75" width="50" /></a>
   <a href="https://www.imdb.com/title/tt3581920/"><img align="center" src="./handmaiden.png" alt="handmaiden" height="75" width="50" /></a>
+  <a href="https://www.imdb.com/title/tt3581920/"><img align="center" src="./scarface.jpg" alt="scarface" height="75" width="50" /></a>
 </p>
