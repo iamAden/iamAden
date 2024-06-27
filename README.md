@@ -4,15 +4,16 @@
 <p align="left">
 <a href="https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK"><img align="center" src="./radiohead.jpg" alt="inrainbows" height="60" width="60" /></a>
 <a href="https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ"><img align="center" src="./songs.jpeg" alt="adrianne" height="60" width="60" /></a>
-<a href="https://open.spotify.com/album/2wPnKggTK3QhYAKL7Q0vvr"><img align="center" src="./danger.jpeg" alt="danger" height="60" width="60" /></a>
-<a href="https://open.spotify.com/album/1Vg5v9M0afj5sIl1ndRXzy"><img align="center" src="./kickii.jpeg" alt="kickii" height="60" width="60" /></a>
-<a href="https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"><img align="center" src="./tbp.jpeg" alt="blackparade" height="60" width="60" /></a>
-<a href="https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"><img align="center" src="./revenge.jpeg" alt="revenge" height="60" width="60" /></a>
-<a href="https://open.spotify.com/album/2wwCc6fcyhp1tfY3J6Javr"><img align="center" src="./banisters.jpg" alt="banisters" height="60" width="60" /></a>
+  <a href="https://open.spotify.com/album/2wwCc6fcyhp1tfY3J6Javr"><img align="center" src="./banisters.jpg" alt="banisters" height="60" width="60" /></a>
 <a href="https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"><img align="center" src="./norman.jpeg" alt="norman" height="60" width="60" /></a>
-<a href="https://open.spotify.com/album/3PRoXYsngSwjEQWR5PsHWR"><img align="center" src="./revolver.jpeg" alt="revolver" height="60" width="60" /></a>
-<a href="https://open.spotify.com/album/4KPLIqzqXYLHsJywLa9uaL"><img align="center" src="./angin.jpg" alt="angin" height="60" width="60" /></a>
+<a href="https://open.spotify.com/album/2wPnKggTK3QhYAKL7Q0vvr"><img align="center" src="./danger.jpeg" alt="danger" height="60" width="60" /></a>
+<a href="https://open.spotify.com/album/3yaSvEnMDdxwakgx7OBLxf"><img align="center" src="./vgbt.jpg" alt="vgbt" height="60" width="60" /></a>
+<a href="https://open.spotify.com/album/1Vg5v9M0afj5sIl1ndRXzy"><img align="center" src="./kickii.jpeg" alt="kickii" height="60" width="60" /></a>
 <a href="https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE"><img align="center" src="./okcomputer.jpeg" alt="okcomputer" height="60" width="60" /></a>
+<a href="https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"><img align="center" src="./revenge.jpeg" alt="revenge" height="60" width="60" /></a>
+<a href="https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"><img align="center" src="./tbp.jpeg" alt="blackparade" height="60" width="60" /></a>
+<a href="https://open.spotify.com/album/3PRoXYsngSwjEQWR5PsHWR"><img align="center" src="./revolver.jpeg" alt="revolver" height="60" width="60" /></a>
+
 </p>
 <h3 align="left">🎮Games!!</h3>
 <p align="left">
