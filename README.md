@@ -32,5 +32,5 @@
   <a href="https://www.imdb.com/title/tt0073629/"><img align="center" src="./rocky.jpeg" alt="rocky" height="70" width="50" /></a>
   <a href="https://www.imdb.com/title/tt6710474/"><img align="center" src="./eeaao.jpg" alt="eeaao" height="70" width="50" /></a>
   <a href="https://www.imdb.com/title/tt10954984/"><img align="center" src="./nope.jpg" alt="nope" height="70" width="50" /></a>
-  
+  <a href="https://www.imdb.com/title/tt3581920/"><img align="center" src="./tlou.jpg" alt="tlou" height="70" width="50" /></a>
 </p>
