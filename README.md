@@ -37,4 +37,7 @@
   <a href="https://www.imdb.com/title/tt6710474/"><img align="center" src="./eeaao.jpg" alt="eeaao" height="75" width="50" /></a>
   <a href="https://www.imdb.com/title/tt10954984/"><img align="center" src="./nope.jpg" alt="nope" height="75" width="50" /></a>
   <a href="https://www.imdb.com/title/tt3581920/"><img align="center" src="./tlou.jpg" alt="tlou" height="75" width="50" /></a>
+  <a href="https://www.imdb.com/title/tt3581920/"><img align="center" src="./scarface.jpg" alt="scarface" height="75" width="50" /></a>
+  <a href="https://www.imdb.com/title/tt3581920/"><img align="center" src="./craft.jpg" alt="craft" height="75" width="50" /></a>
+  <a href="https://www.imdb.com/title/tt3581920/"><img align="center" src="./handmaiden.png" alt="handmaiden" height="75" width="50" /></a>
 </p>
