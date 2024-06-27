@@ -1,4 +1,5 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31zucmt2i6zwpqump5tcn6v73pie&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31zucmt2i6zwpqump5tcn6v73pie&redirect=true)
+<h2 align="center">NErD STACK I FREQUENT</h2>
 <h3 align="left">Music!!</h3>
 <p align="left">
 <a href="https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK?si=22edeeef09e34376"><img align="center" src="./radiohead.jpg" alt="inrainbows" height="60" width="60" /></a>
@@ -9,7 +10,6 @@
 <a href="https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK?si=3671f8bb45aa4ff3"><img align="center" src="./tbp.jpeg" alt="blackparade" height="60" width="60" /></a>
 <a href="https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h?si=e407cf1f37854d7c"><img align="center" src="./revenge.jpeg" alt="revenge" height="60" width="60" /></a>
 </p>
-<h2 align="center">NErD STACK</h2>
 <h3 align="left">Games!!</h3>
 <p align="left">
   <img align="center" src="./mc.jpeg" alt="minecraft" height="60" width="60" />
