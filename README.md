@@ -9,6 +9,7 @@
 <a href="https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK?si=3671f8bb45aa4ff3"><img align="center" src="./tbp.jpeg" alt="blackparade" height="60" width="60" /></a>
 <a href="https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h?si=e407cf1f37854d7c"><img align="center" src="./revenge.jpeg" alt="revenge" height="60" width="60" /></a>
 </p>
+<h2 align="center">NErD STACK</h2>
 <h3 align="left">Games!!</h3>
 <p align="left">
   <img align="center" src="./mc.jpeg" alt="minecraft" height="60" width="60" />
