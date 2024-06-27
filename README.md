@@ -1,30 +1,11 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31zucmt2i6zwpqump5tcn6v73pie&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31zucmt2i6zwpqump5tcn6v73pie&redirect=true)
-connect with me!
-<style>
-  .hover-image {
-    position: relative;
-  }
-  .hover-image img {
-    display: block;
-  }
-  .hover-image img.hover {
-    position: absolute;
-    top: 0;
-    left: 0;
-    opacity: 0;
-    transition: opacity 0.3s;
-  }
-  .hover-image:hover img.hover {
-    opacity: 1;
-  }
-  .hover-image:hover img.default {
-    opacity: 0;
-  }
-</style>
-<div class="hover-image">
-  <a href="https://www.linkedin.com/in/adelinekg"><img src="./pop1.jpg" class="default" alt="pop1"></a>
-  <a href="https://www.linkedin.com/in/adelinekg"><img src="./pop2.jpeg" class="hover" alt="pop2"></a>
-</div>
+<br/>
+  ／l、             
+（ﾟ､ ｡ ７         
+  l  ~ヽ       
+  じしf_,)ノ
+<a href="https://www.linkedin.com/in/adelinekg">Connevt with me on LinkedIn</a>
+
 <h2 align="center">NErD STACKs IM  vEry NORmAL ABOUT</h2>
 <h3 align="left">🎸Music!!</h3>
 <p align="left">
