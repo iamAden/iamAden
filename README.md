@@ -6,7 +6,7 @@
 ```
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31zucmt2i6zwpqump5tcn6v73pie&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31zucmt2i6zwpqump5tcn6v73pie&redirect=true)
 
-<h2 align="center">NErD STACKs</h2>
+<h2 align="center">NERD STACKS LOL</h2>
 <h3 align="left">🎸Music!!</h3>
 <p align="left">
 <a href="https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK"><img align="center" src="./radiohead.jpg" alt="inrainbows" height="60" width="60" /></a>
