@@ -20,7 +20,7 @@
 <a href="https://open.spotify.com/album/3kKKznV19oXryd9tjpYFVW"><img align="center" src="./botr.jpg" alt="botr" height="60" width="60" /></a>
 <a href="https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"><img align="center" src="./revenge.jpeg" alt="revenge" height="60" width="60" /></a>
 <a href="https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"><img align="center" src="./tbp.jpeg" alt="blackparade" height="60" width="60" /></a>
-<a href="https://open.spotify.com/album/3PRoXYsngSwjEQWR5PsHWR"><img align="center" src="./revolver.jpeg" alt="revolver" height="60" width="60" /></a>
+<a href="https://open.spotify.com/album/01dcOm8Whefyve6zChrq9Q"><img align="center" src="./selfish.jpeg" alt="selfishmachine" height="60" width="60" /></a>
 
 </p>
 <h3 align="left">🎮Games!!</h3>
