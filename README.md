@@ -6,7 +6,7 @@
 ```
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31zucmt2i6zwpqump5tcn6v73pie&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31zucmt2i6zwpqump5tcn6v73pie&redirect=true)
 
-<h2 align="center">NERD STACKS LOL</h2>
+<h2 align="center">NERD STACK</h2>
 <h3 align="left">🎸Music!!</h3>
 <p align="left">
 <a href="https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK"><img align="center" src="./radiohead.jpg" alt="inrainbows" height="60" width="60" /></a>
@@ -21,7 +21,7 @@
 <a href="https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"><img align="center" src="./revenge.jpeg" alt="revenge" height="60" width="60" /></a>
 <a href="https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"><img align="center" src="./tbp.jpeg" alt="blackparade" height="60" width="60" /></a>
 <a href="https://open.spotify.com/album/01dcOm8Whefyve6zChrq9Q"><img align="center" src="./selfish.jpg" alt="selfishmachine" height="60" width="60" /></a>
-
+<a href="https://open.spotify.com/album/6gDtROOIYa6OQxwhDNkDRM"><img align="center" src="./twinfantasy.png" alt="twinfantasy" height="60" width="60" /></a>
 </p>
 <h3 align="left">🎮Games!!</h3>
 <p align="left">
@@ -29,7 +29,7 @@
   <img align="center" src="./stardew.jpeg" alt="stardew" height="60" width="60" />
   <img align="center" src="./sable.jpeg" alt="sable" height="60" width="60" />
 </p>
-<h3 align="left">📖Books!!</h3>
+<!-- <h3 align="left">📖Books!!</h3>
 <p align="left">
   <a href="https://www.goodreads.com/book/show/41880609-on-earth-we-re-briefly-gorgeous"><img align="center" src="./onearth.jpg" alt="onearth" height="70" width="50" /></a>
   <a href="https://www.goodreads.com/book/show/10357575-1q84"><img align="center" src="./1q84.jpg" alt="1q84" height="70" width="50" /></a>
@@ -49,4 +49,4 @@
   <a href="https://www.imdb.com/title/tt3581920/"><img align="center" src="./tlou.jpg" alt="tlou" height="75" width="50" /></a>
   <a href="https://www.imdb.com/title/tt3581920/"><img align="center" src="./handmaiden.png" alt="handmaiden" height="75" width="50" /></a>
   <a href="https://www.imdb.com/title/tt3581920/"><img align="center" src="./scarface.jpg" alt="scarface" height="75" width="50" /></a>
-</p>
+</p> -->
