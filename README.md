@@ -29,7 +29,7 @@
   <img align="center" src="./stardew.jpeg" alt="stardew" height="60" width="60" />
   <img align="center" src="./sable.jpeg" alt="sable" height="60" width="60" />
 </p>
-<!-- <h3 align="left">📖Books!!</h3>
+<h3 align="left">📖Books!!</h3>
 <p align="left">
   <a href="https://www.goodreads.com/book/show/41880609-on-earth-we-re-briefly-gorgeous"><img align="center" src="./onearth.jpg" alt="onearth" height="70" width="50" /></a>
   <a href="https://www.goodreads.com/book/show/10357575-1q84"><img align="center" src="./1q84.jpg" alt="1q84" height="70" width="50" /></a>
@@ -37,7 +37,7 @@
   <a href="https://www.goodreads.com/book/show/6514.The_Bell_Jar"><img align="center" src="./belljar.jpg" alt="belljar" height="70" width="50" /></a>
   <a href="https://www.goodreads.com/book/show/22628.The_Perks_of_Being_a_Wallflower"><img align="center" src="./perks.jpg" alt="perks" height="70" width="50" /></a>
 </p>
-<h3 align="left">📺TV Shows/Movies!!</h3>
+<!-- <h3 align="left">📺TV Shows/Movies!!</h3>
 <p align="left">
   <a href="https://www.imdb.com/title/tt0073629/"><img align="center" src="./rocky.jpeg" alt="rocky" height="75" width="50" /></a>
   <a href="https://www.imdb.com/title/tt6710474/"><img align="center" src="./eeaao.jpg" alt="eeaao" height="75" width="50" /></a>
