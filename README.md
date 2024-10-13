@@ -17,10 +17,10 @@
 <a href="https://open.spotify.com/album/1Vg5v9M0afj5sIl1ndRXzy"><img align="center" src="./kickii.jpeg" alt="kickii" height="60" width="60" /></a>
 <a href="https://open.spotify.com/album/2RwMTosAa4E9IXLEgThlO9"><img align="center" src="./faye.jpg" alt="faye" height="60" width="60" /></a>
 <a href="https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE"><img align="center" src="./okcomputer.jpeg" alt="okcomputer" height="60" width="60" /></a>
-<a href="https://open.spotify.com/album/3kKKznV19oXryd9tjpYFVW"><img align="center" src="./botr.jpg" alt="botr" height="60" width="60" /></a>
+<!-- <a href="https://open.spotify.com/album/3kKKznV19oXryd9tjpYFVW"><img align="center" src="./botr.jpg" alt="botr" height="60" width="60" /></a> -->
 <a href="https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"><img align="center" src="./revenge.jpeg" alt="revenge" height="60" width="60" /></a>
-<a href="https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"><img align="center" src="./tbp.jpeg" alt="blackparade" height="60" width="60" /></a>
 <a href="https://open.spotify.com/album/01dcOm8Whefyve6zChrq9Q"><img align="center" src="./selfish.jpg" alt="selfishmachine" height="60" width="60" /></a>
+<a href="https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"><img align="center" src="./tbp.jpeg" alt="blackparade" height="60" width="60" /></a>
 <a href="https://open.spotify.com/album/6gDtROOIYa6OQxwhDNkDRM"><img align="center" src="./twinfantasy.png" alt="twinfantasy" height="60" width="60" /></a>
 </p>
 <h3 align="left">🎮Games!!</h3>
